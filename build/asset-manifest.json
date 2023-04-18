@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Capstone2022/static/css/main.0e41898d.css",
+    "main.js": "/Capstone2022/static/js/main.2e1b5b38.js",
+    "index.html": "/Capstone2022/index.html",
+    "main.0e41898d.css.map": "/Capstone2022/static/css/main.0e41898d.css.map",
+    "main.2e1b5b38.js.map": "/Capstone2022/static/js/main.2e1b5b38.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e41898d.css",
+    "static/js/main.2e1b5b38.js"
+  ]
+}

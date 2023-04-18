@@ -1,0 +1,157 @@
+.body {
+    margin: 0;
+}
+
+.info-header {
+    font-family: 'Mulish', sans-serif;
+    font-size: 22px;
+    text-decoration: underline;
+    display: block;
+    white-space:nowrap;
+}
+
+.time-text {
+    margin-top: 0px;
+    margin-bottom: 15px;
+    display: block;
+    white-space:nowrap;
+    font-family: 'Mulish', sans-serif;
+    font-size: 20px;
+}
+
+.weather {
+    font-family: 'Mulish', sans-serif;
+    font-size: 26px;
+    align-content: flex-end;
+}
+
+.weather-desc {
+    font-family: 'Mulish', sans-serif;
+    font-size: 22px;
+    display: block;
+}
+
+.header {
+    height: 100px;
+    background-color: #6CA4DC;  /*Hex value PC Blue */
+    color: #fff;
+    margin-bottom: 15px;
+    align-items: center;
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Mulish', sans-serif;
+}
+
+.header img {
+    position: absolute;
+    z-index: 0;
+    left: 30px;
+    top: 24px;
+}
+
+.header > h1 {
+    z-index: 1;
+}
+
+.stream {
+    text-align: center;
+    width: 100%;
+    vertical-align: middle;
+    height: 100%;
+    display: table-cell;
+    
+}
+
+.stream > iframe {
+    width: 200px
+}
+
+
+.footer {
+    height: 400px;
+    background-color: #959ea7;
+    color: #000;
+    margin-bottom: 15px;
+    align-items: center;
+    font-size: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute
+}
+
+.footer img {
+    position: absolute;
+    left: 30px;
+    top: 80px;
+}
+
+.email-text {
+    color: #6CA4DC;
+    text-align: center;
+    font-family: 'Mulish', sans-serif;
+    font-size: 22px;
+    /* margin-top: 10px;
+    margin-bottom: 10px; */
+    display: block;
+}
+
+.centertext {
+    height: 100px;
+    color: #6CA4DC;
+    align-items: center;
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.info-text {
+    height: 0px auto;
+    margin-left: 20%;
+    margin-right: 20%;
+    display: block;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.info-text > span {
+    color: #6CA4DC;
+    text-align: center;
+    font-family: 'Mulish', sans-serif;
+    font-size: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display: block;
+    align-content: center;
+}
+
+.email-signup {
+    /* color: #737373; */
+    /* color: #6CA4DC; */
+    font-family: 'Mulish', bold;
+    font-size: 24px;
+    display: block;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+
+.text-box {
+    width: 300px;
+    height: 20px;
+}
+
+.submit-box {
+    height: 24px;
+}
+
+
+.email-confirm {
+    color: #008000;
+    font-family: 'Mulish', sans-serif;
+    font-size: 18px;
+    margin-top: 5px;
+}
