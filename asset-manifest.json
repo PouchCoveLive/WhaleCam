@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/WhaleCam/static/css/main.0e41898d.css",
+    "main.js": "/WhaleCam/static/js/main.2e1b5b38.js",
+    "index.html": "/WhaleCam/index.html",
+    "main.0e41898d.css.map": "/WhaleCam/static/css/main.0e41898d.css.map",
+    "main.2e1b5b38.js.map": "/WhaleCam/static/js/main.2e1b5b38.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e41898d.css",
+    "static/js/main.2e1b5b38.js"
+  ]
+}
